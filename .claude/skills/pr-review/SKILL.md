@@ -1,6 +1,8 @@
 ---
 name: pr-review
 description: Use this skill when reviewing pull requests, git diffs, or code changes.
+allowed_tools: [READ_FILE]
+model: sonnet
 ---
 
 # PR Review Skill
